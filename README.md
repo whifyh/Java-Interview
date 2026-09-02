@@ -1,7 +1,6 @@
 # Java-Interview
 「Java面试小抄」一份通向理想互联网公司的面试指南，包括 Java基础、集合、Java并发、JVM、MySQL、Redis、Spring、MyBatis、Kafka、操作系统、计算机网络、系统设计、分布式、Java 项目实战等。
 
-> 优惠价GPT  claude会员充值，正版订阅 售后无忧，https://doloffer.com 9折优惠码：AI8888
 > 在线阅读：https://www.javalearn.cn/
 
 <br> <a href="https://docs.qq.com/sheet/DY1hoWkl5em9VeE1O?tab=BB08J2" name="【腾讯文档】【持续更新】2023春招&实习汇总"></a>
